@@ -31,7 +31,8 @@ public class CollegeMathQuiz {
             "3.14",
             "0",
             "2.7183",
-            "1"
+            "1",
+            "25π"
         };
 
         // Initialize Scanner for user input
