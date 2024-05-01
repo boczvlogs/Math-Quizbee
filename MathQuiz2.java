@@ -13,7 +13,9 @@ public class CollegeMathQuiz {
             "What is the integral of cos(x)?",
             "What is the derivative of e^x?",
             "What is the value of pi (π) rounded to two decimal places?",
-            "What is the value of the natural logarithm of 1?"
+            "What is the value of the natural logarithm of 1?",
+            "What is the value of e rounded to 4 decimal places?",
+            "What is the value of sin(pi/2)?"
         };
         
         String[] answers = {
@@ -26,7 +28,9 @@ public class CollegeMathQuiz {
             "sin(x) + C",
             "e^x",
             "3.14",
-            "0"
+            "0",
+            "2.7183",
+            "1"
         };
 
         // Initialize Scanner for user input
