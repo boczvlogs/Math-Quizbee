@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CollegeMathQuiz {
     public static void main(String[] args) {
-        // Questions and Answers Advance v1.0
+        // Questions and Answers Advance v1.0 for MSFT & Agoo
         String[] questions = {
             "What is the derivative of sin(x)?",
             "What is the integral of 2x^2?",
