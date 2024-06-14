@@ -58,7 +58,7 @@ public class CollegeMathQuiz {
         // Display final score
         System.out.println("Quiz completed! Your score is: " + score + "/" + questions.length);
 
-        //Agoo INC 2023 V1
+        //Agoo INC 2023 V1.0 BETA
 
         // Close Scanner
         scanner.close();
