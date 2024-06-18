@@ -60,7 +60,6 @@ public class CollegeMathQuiz {
 
         //Agoo INC 2023 V1.0 BETA
 
-        // Close Scanner
         scanner.close();
     }
 }
