@@ -58,8 +58,9 @@ public class CollegeMathQuiz {
         // Display final score
         System.out.println("Quiz completed! Your score is: " + score + "/" + questions.length);
 
-        //Agoo INC 2023 V1.0 BETA
 
         scanner.close();
     }
 }
+
+//Agoo INC 2023 V1.1  MSFT
