@@ -17,7 +17,7 @@ public class CollegeMathQuiz {
             "What is the value of e rounded to 4 decimal places?",
             "What is the value of sin(pi/2)?",
             "What is the area of a circle with radius 5 units (πr^2)?", 
-            "If y(x-1)=z then x=",
+            "If y(x-1)=z then x="
         };
         
         String[] answers = {
